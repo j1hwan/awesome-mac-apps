@@ -1,6 +1,7 @@
 # awesome-mac-apps
 
->List of applications for macOS
+`List of applications for macOS`
+
 
 # Browser
 - **Google Chrome**  
@@ -40,18 +41,17 @@
 
 
 # Productivity  
-- **BetterTouchTool**
-- **Spectacle**
-- **KeepingYouAwake**
-- **Karabiner**
+- [**BetterTouchTool**](https://folivora.ai)
+- [**Spectacle**](https://www.spectacleapp.com) : Window control with simple and customizable keyboard shortcuts
+- [**KeepingYouAwake**](https://github.com/newmarcel/KeepingYouAwake) : Prevents your Mac from going to sleep
+- [**Karabiner**](https://pqrs.org/osx/karabiner) : A powerful and stable keyboard customizer for macOS
 
 
 # Utility  
-- **dupeGuru** : GUI tool to find duplicate files in a system
-- **Avidemux** : video editor
-- **ImageOptim** : Compress image file
-
+- [**dupeGuru**](https://github.com/hsoft/dupeguru) : GUI tool to find duplicate files in a system
+- [**Avidemux**](http://avidemux.sourceforge.net) : Video editor
+- [**ImageOptim**](https://imageoptim.com/mac) : Compress image file
 
 # Video Player
-- **IINA**  
+- [**IINA**](https://lhc70000.github.io/iina) : The modern video player for macOS
 
