@@ -15,8 +15,9 @@
 - **Oh my zsh**
 
 ## Command Line Interface Utils
-- **streamlink**
-- **youtube-dl**
+- [**streamlink**](https://github.com/streamlink/streamlink) : a CLI utility that pipes flash videos from online streaming services to a variety of video players such as VLC, or alternatively, a browser.
+
+- [**youtube-dl**](https://github.com/rg3/youtube-dl) : a command-line program to download videos from YouTube.com and a few more sites
 
 
 # File Archiver
