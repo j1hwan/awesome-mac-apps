@@ -4,11 +4,11 @@
 
 
 # Browser
-- **Google Chrome**  
+- **Google Chrome** : What more?
 
 # Chat, Instant Messaging  
-- **Telegram**
-- **LimeChat**
+- **Telegram** A new era of messaging
+- **LimeChat** IRC
 
 # Command Line  
 - **iTerm** : Terminal Emulator
@@ -35,6 +35,7 @@
 # Note
 - **Evernote**
 - **Simplenote**
+- [**Notion**](https://www.notion.so)
 
 
 # Package Manager
